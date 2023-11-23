@@ -1,6 +1,6 @@
 # U
 ## Introduction
-U (Universal) is a series of projects that contains thousands of ideas.
+Universal plan (U) is a series of projects that contains thousands of ideas.
 U aims to create a completely new operating system that is able to run on any platform within a single respiratory. Similar to LibreOffice, U is coded using various languages, namely C, C++, C# Java, React.js, Bash, Powershell, Python, Mojo, Perl, SQL, and XML. A vast amount of files are expected.
 U also aims to create a Hub for people to use the U library easily, so U will be able to be applicable on both Java and C.
 U also allows people in [The-cooperation-plan](https://github.com/The-cooperation-plan) to use U as a hub to share their ideas, as well as to seek collaborators.
