@@ -38,3 +38,7 @@ In order to contribute to U, you must check for the prerequisites first:
 - ggc-libs-multilib
 ## Linux: Slackware
 ## Linux: DragonFlyBSD, FreeBSD, NetBSD
+
+# Linking respiratory
+To link respiratory, you must have admin access which can only be found in the Admin role.
+then, it is suggested to follow through with this website: https://stackoverflow.com/questions/33888122/how-to-link-two-repositories-on-github
